@@ -1,0 +1,132 @@
+@media (max-width: 1024px) {
+
+  .header {
+      margin-left: auto;
+      margin-right: auto;
+      height: 100px;
+      margin-top: -60px;
+  }
+
+  h1 {
+      font-family: 'Ovo', serif;
+      font-size: 5em;
+      color: #ffac03;
+      text-align:justify;
+    }
+  .menu-xs{
+    display:list-item;
+    list-style: none;
+    color: #ffac03;
+    padding-top: 0.5em;
+    text-align: justify;
+  }
+  a {
+      font-family: 'Muli', sans-serif;
+      font-size: 1em;
+      color: #9baf33;
+    }
+  h2{
+    font-family: 'Ovo', serif;
+    font-size: 1.8em;
+    color: #ffac03;
+    text-align: justify;
+  }
+
+  h3{
+    font-family: 'Ovo', serif;
+    font-size: 1.2em;
+    color:#d9dfa6;
+    text-align: justify;
+  }
+  h4 {
+      font-family: 'Ovo', serif;
+      font-size: 1em;
+      text-align: justify;
+  }
+
+  p {
+      font-family: 'Muli', sans-serif;
+      font-size: 1em;
+      color: #d9dfa6;
+      text-align: justify;
+      width: auto;
+  }
+  .title3{
+    color: #ffac03;
+    font-family: 'Muli', sans-serif;
+    font-size: 1.4em;
+    text-align: left;
+  }
+  .section0 {
+      display: flex;
+      flex-direction: column;
+  }
+  .def {
+      background-color: rgba(155, 175, 51, 0.7);
+      border-radius: 20px;
+      width: 500px;
+      margin-bottom: 10px;
+      text-align: justify;
+  }
+.maincite{
+  font-style: italic;
+  color: #485126;
+  font-size: 1.8em;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+}
+.centro {
+    display: flex;
+    flex-direction: column;
+    align-items:stretch;
+}
+.motivation {
+    background-color: rgb(255, 172, 3, 0.8);
+    border-radius: 4%;
+    width: 100%;
+    margin: 0.5%;
+    padding: 3%;
+    color: #ffac03;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.media-xs{
+width: 0.5em;
+}
+.section3rol {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8em;
+    text-align: justify;
+    color: #ffac03;
+}
+.color{
+  color: #485126;
+}
+
+.section4profile{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+}
+
+.avatar{
+    width:150px;
+    margin: 0 auto;
+
+}
+.avatartext{
+  background-color: rgba(155, 175, 51, 0.7);
+  border-radius: 0.4em;
+  text-align: justify;
+  color: white;
+  width: 40%;
+  height: -10%;
+}
+}

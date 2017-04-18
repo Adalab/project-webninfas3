@@ -1,0 +1,201 @@
+/*holaaaaa*/
+
+* {
+    box-sizing: border-box;
+}
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    height: 10em;
+    margin-top: -6%;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: #485126;
+    padding-top: 1%;
+    padding-bottom: 0,5%;
+}
+
+a {
+    text-decoration: none;
+    color: #233338;
+}
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.maincite {
+    font-style: italic;
+    color: #485126;
+    font-size: 3,125em;
+}
+
+h1 {
+    font-family: 'Ovo', serif;
+    font-size: 10em;
+    color: #233338;
+    text-align: center;
+    height: auto;
+}
+
+h2 {
+    font-family: 'Ovo', serif;
+    font-size: 3em;
+    color: #485126;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Ovo', serif;
+    font-size: 1.5em;
+    color:#485126;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Ovo', serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+p {
+    font-family: 'Muli', sans-serif;
+    font-size: 1em;
+    color: #485126;
+    text-align: justify;
+}
+
+li {
+    font-family: 'Muli', sans-serif;
+    font-size: 1em;
+}
+
+.section0 {
+    height: auto;
+    display: flex;
+    justify-content: space-around
+}
+
+.def {
+    background-color: rgba(35, 51, 56, 0.3);
+    border-radius: 10%;
+    width: 40%;
+    padding: 3%;
+    color: #485126;
+    text-align: justify;
+}
+
+
+.chart{
+  width: 100%;
+}
+
+.centro {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoadalab{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1 {
+    display: flex;
+    align-items: center;
+}
+
+.motivation {
+    background-color: rgba(35, 51, 56, 0.3);
+    border-radius: 4%;
+    width: 100%;
+    margin: 0.5%;
+    padding: 3%;
+    color: #485126;
+    text-align: center;
+}
+
+#adalabblog:hover {
+    background-color: #233338;
+    border-radius: 4%;
+    color: #bacc53;
+}
+
+#adalabblog {
+    color: #d9dfa6;
+}
+
+#title3{
+  color: #233338;
+  text-align: center;
+}
+
+.section3rol {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rol {
+    height: 300px;
+}
+
+.color {
+  color: #485126;
+}
+
+
+.col1-5 {
+    width: 20%;
+    margin: 0.5%;
+    padding-left: 0,2%;
+    padding-right: 0.2%;
+}
+
+.section4profile {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+}
+
+.avatar{
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+
+.logoline {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+    text-align: center;
+    width: 70%;
+    height: 68px;
+    padding-bottom: : 55px;
+    min-height: 100%;
+    margin: 40px auto 0 auto;
+    font-weight: bold;
+    clear: both;
+}
+
+.footer a{
+    color: #233338;
+    font-size: 36px;
+}
+
+.footer p{
+    font-size: 20px;
+    }
+
+.logo{
+  width: 50%;
+}
